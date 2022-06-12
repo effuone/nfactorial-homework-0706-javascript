@@ -1,4 +1,4 @@
-import { products } from "./data/Products.js";
+import { products } from "./Frontend-Task/data/Products.js";
 
 Array.prototype.contains = function(v)
  {
